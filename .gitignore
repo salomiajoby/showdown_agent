@@ -27,4 +27,4 @@ showdown_agent/scripts/players/*
 
 # but do not ignore the players directory itself nor rename.py
 !showdown_agent/scripts/players/
-!showdown_agent/scripts/players/rename.py
+!showdown_agent/scripts/players/sjob296.py
